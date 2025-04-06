@@ -45,5 +45,12 @@ Atualmente, estou aprofundando meus conhecimentos em [linguagens e tecnologias q
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
 
+<h2 align="left">Redes Sociais:</h2> 
 
+### 
+
+<div align="center">
+ <a href="https://linkfly.to/waudias" target="_blank">     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  /> 
+ </a> </div>  ###
+0 commit commentsComments0
 
