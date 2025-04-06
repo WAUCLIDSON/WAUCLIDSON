@@ -40,5 +40,10 @@ Atualmente, estou aprofundando meus conhecimentos em [linguagens e tecnologias q
 </div>
 
 ###
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
+
 
 
