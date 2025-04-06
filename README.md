@@ -26,26 +26,20 @@ Atualmente, estou aprofundando meus conhecimentos em [linguagens e tecnologias q
  Explore meus repositórios, participe de projetos colaborativos e compartilhe suas ideias brilhantes. 
  
  Estou aberto a conexões e parcerias que transformem o futuro! 🚀
+ ###
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 ###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=WAUCLIDSON&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WAUCLIDSON&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
-
-###
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
-
-<h2 align="left">Redes Sociais:</h2> 
 
 ### 
 
@@ -53,4 +47,5 @@ Atualmente, estou aprofundando meus conhecimentos em [linguagens e tecnologias q
  <a href="https://linkfly.to/waudias" target="_blank">     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  /> 
  </a> </div>  ###
 0 commit commentsComments0
+
 
